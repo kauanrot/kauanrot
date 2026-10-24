@@ -25,7 +25,7 @@
 
 ### 🏆 Troféus
 
-<img src="https://github-profile-trophy.vercel.app/?username=kauanrot&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
+<img src="https://github-trophies.vercel.app/?username=kauanrot&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
 
 </div>
 
@@ -48,7 +48,7 @@
 
 ### 📈 Atividade
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kauanrot&theme=tokyo-night&hide_border=true&area=true" />
+<img width="100%" src="https://ghchart.rshah.org/7aa2f7/kauanrot" />
 
 </div>
 
@@ -81,7 +81,7 @@
 
 ### 💬 Frase do dia
 
-<img src="https://github-readme-quotes-bice.vercel.app/api?type=horizontal&theme=tokyonight" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
 </div>
 
