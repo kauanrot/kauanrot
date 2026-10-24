@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=C0CAF5&center=true&vCenter=true&width=500&lines=oi%2C+eu+sou+o+kauan;c%C3%B3digo%2C+caf%C3%A9+e+commits+%E2%98%95" alt="oi, eu sou o kauan" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=C0CAF5&center=true&vCenter=true&width=500&lines=oi%2C+eu+sou+o+kauan;c%C3%B3digo%2C+energ%C3%A9ticos+e+commits+%E2%9A%A1" alt="oi, eu sou o kauan" />
 
 <br><br>
 
